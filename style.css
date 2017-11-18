@@ -1,1 +1,8 @@
-style
+body{
+	background: #D5BAE1;
+	background-size: cover;
+	font-family: 'Signika',sans-serif;
+	font-size: 14px;
+	background-position: 50% 50%;
+}
+
